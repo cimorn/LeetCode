@@ -1,0 +1,1 @@
+This repository is a collection of LeetCode algorithm problem solutions codes, mainly containing implementations of classic algorithm problems with multiple problem-solving ideas. It is suitable for programming learners to consolidate basic algorithm knowledge and improve problem-solving skills.
